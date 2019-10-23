@@ -1,6 +1,6 @@
 a=int(input())
 b=int(input())
-sum=0
+summ=0
 for i in range(a,b+1):
-  sum+=i
-print(sum)
+  summ+=i
+print(summ)
